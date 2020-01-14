@@ -9,7 +9,6 @@ choix.times do
   start.times do
     print '#'
   end
-  
   puts
   start +=   1
   choix -=  1
